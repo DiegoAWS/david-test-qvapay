@@ -1,0 +1,25 @@
+{
+  "name": "plantilla_node",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "body": "^5.1.0",
+    "cors": "^2.8.5",
+    "debug": "^4.1.1",
+    "express": "^4.17.1",
+    "helmet": "^3.23.3",
+    "morgan": "^1.10.0",
+    "parser": "^0.1.4",
+    "passport": "^0.4.1",
+    "slash": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David",
+  "license": "ISC"
+}
